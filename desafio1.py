@@ -12,4 +12,4 @@ try:
     print(Fore.GREEN + f"O resultado é {resultado}")
     print(Fore.WHITE + "")
 except ValueError:
-    print(Fore.RED + "Por favor, digite apenas numeros inteiros.")
+    print(Fore.RED + "Por favor, digite apenas numeros.")
